@@ -15,4 +15,5 @@ if num%5==0:
 if num%7==0:
     print("Divisible by 7")
 else:
-    print("Divisible by none")
+    print("Not Divisible")
+print("Hello Github")
